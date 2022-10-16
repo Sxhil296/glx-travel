@@ -32,6 +32,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.error{
+  color: white;
+  margin: 6rem;
+}
+.error h1, p {
+  margin: 2rem;
+}
+.error .btn{
+  margin-left: 2rem;
+}
 
 .btn{
   padding: 12px 32px;
